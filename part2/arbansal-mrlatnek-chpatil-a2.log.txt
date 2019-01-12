@@ -1,0 +1,13 @@
+Accuracy: 2.6
+['ATLANTA,_GA', 'ATLANTA', 'GA', 'TO', '', 'AT']
+['BOSTON,_MA', 'BOSTON', 'MA', 'JOB', 'AT', 'HIRING']
+['CHICAGO,_IL', 'CHICAGO', 'IL', 'AT', 'JOB', 'TO']
+['HOUSTON,_TX', 'HOUSTON', 'TX', 'JOB', 'HIRING', 'TO']
+['LOS_ANGELES,_CA', '', 'TO', 'CA', 'AT', 'LOS']
+['MANHATTAN,_NY', 'NEW', 'YORK', 'NY', 'AT', '']
+['ORLANDO,_FL', 'AT', 'ORLPOL', 'ORLANDO', 'OPD', 'FL']
+['PHILADELPHIA,_PA', 'PHILADELPHIA', 'PA', 'TO', 'AT', '']
+['SAN_DIEGO,_CA', 'CA', 'SAN', 'SANDIEGO', 'JOB', 'DIEGO']
+['SAN_FRANCISCO,_CA', 'CA', 'SAN', 'AT', 'SANFRANCISCO', 'FRANCISCO']
+['TORONTO,_ONTARIO', 'TORONTO', 'ON', 'TO', '', 'AT']
+['WASHINGTON,_DC', 'DC', 'WASHINGTON', 'AT', '', 'TO']
